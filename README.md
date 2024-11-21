@@ -1,4 +1,4 @@
-# Mini-Projects
+# Tic Tac Toe
 
 # Tic Tac Toe - A Childhood Classic in Java 🎮
 Tic Tac Toe is a classic two-player game we all enjoyed during our childhood. Simple yet strategic, the game involves players taking turns to mark spaces in a 3x3 grid, aiming to align three of their symbols (either 'X' or 'O') horizontally, vertically, or diagonally.This repository contains a Java implementation of the timeless two-player game Tic Tac Toe. A simple yet strategic game we all loved during our childhood, this version is built with a dynamic and interactive console interface.
