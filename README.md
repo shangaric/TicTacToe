@@ -24,11 +24,11 @@ The grid updates after every move, displaying the current game state.
           Announces the winner or a draw and exits gracefully.
 
 # 🎮 How to Play:
-Run the program in any Java environment (IDE or terminal).
-Players take turns entering grid coordinates:
+    Run the program in any Java environment (IDE or terminal).
+    Players take turns entering grid coordinates:
       i for the row (0-2).
       j for the column (0-2).
-The program validates the input and updates the grid.
-Keep playing until:
+    The program validates the input and updates the grid.
+    Keep playing until:
         A player aligns three of their symbols (X or O) horizontally, vertically, or diagonally.
         Or, all spaces are filled, resulting in a draw.
